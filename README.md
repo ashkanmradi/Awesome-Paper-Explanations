@@ -8,8 +8,11 @@ We welcome contributions from the community! If you have a YouTube playlist that
 2. **_Add Your Playlist_**<br> Include the link under the appropriate category along with a brief description of its content.
 3. **_Submit a Pull Request_**<br> Once your changes are ready, submit a pull request for review.<br>
 Alternatively, you can open an issue with your suggestion if you need help or have questions about contributing.
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## Content
+- [Speech processing related papers](Speech-processing-related-papers)
+
+## Speech processing related papers
+* [DURP-Tutorials](https://www.youtube.com/playlist?list=PLOJ49z5vFzH9gf8y8eXw1uechmjSjOtQY)
 
 
 
