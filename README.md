@@ -18,7 +18,8 @@ Alternatively, you can open an issue with your suggestion if you need help or ha
 * [Papers Explained](https://www.youtube.com/playlist?list=PL1v8zpldgH3pR7LPuidEZK68kS6AaU1y7)
 * [Two Minute Papers](https://www.youtube.com/playlist?list=PLujxSBD-JXgnqDD1n-V30pKtp6Q886x7e)
 * [Papers Explained - Machine Learning](https://www.youtube.com/playlist?list=PL8hTotro6aVHhn5QUB3HDJTu3rPJ48LeP)
-* [Maziar Raissi playlists](https://www.youtube.com/@maziarraissi3569/playlists)
+* [Maziar Raissi playlists](https://www.youtube.com/@maziarraissi3569/playlists)+
+* [Reading Papers](https://www.youtube.com/playlist?list=PLAJOS_DQzwLsRwTK3Jc34YvfVmt-ehOvf)
 
 
 ## Speech processing related papers
