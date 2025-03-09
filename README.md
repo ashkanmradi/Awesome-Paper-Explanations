@@ -14,6 +14,11 @@ Alternatively, you can open an issue with your suggestion if you need help or ha
 
 ## General purpose papers
 * [AI Research Paper Summaries](https://www.youtube.com/playlist?list=PLTWM4vrO7XA-UUTQ25jFDvFPYkTOsnqLj)
+* [Monthly AI Research Paper Summaries](https://www.youtube.com/playlist?list=PLPefVKO3tDxP7iFzaSOkOZnXQ4Bkhi9YB)
+* [Papers Explained](https://www.youtube.com/playlist?list=PL1v8zpldgH3pR7LPuidEZK68kS6AaU1y7)
+* [Two Minute Papers](https://www.youtube.com/playlist?list=PLujxSBD-JXgnqDD1n-V30pKtp6Q886x7e)
+* [Papers Explained - Machine Learning](https://www.youtube.com/playlist?list=PL8hTotro6aVHhn5QUB3HDJTu3rPJ48LeP)
+
 
 ## Speech processing related papers
 * [DURP-Tutorials](https://www.youtube.com/playlist?list=PLOJ49z5vFzH9gf8y8eXw1uechmjSjOtQY)
