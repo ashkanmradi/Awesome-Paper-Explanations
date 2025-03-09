@@ -23,6 +23,8 @@ Alternatively, you can open an issue with your suggestion if you need help or ha
 
 ## Speech processing related papers
 * [DURP-Tutorials](https://www.youtube.com/playlist?list=PLOJ49z5vFzH9gf8y8eXw1uechmjSjOtQY)
+* [Speech and Language Technology Meetup Group Weekly Paper Reading](https://www.youtube.com/playlist?list=PLvIBvcCC61col1S-MbLXxvyRHoUaqXSIs)
+* 
 
 
 
