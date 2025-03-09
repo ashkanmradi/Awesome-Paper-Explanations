@@ -9,7 +9,11 @@ We welcome contributions from the community! If you have a YouTube playlist that
 3. **_Submit a Pull Request_**<br> Once your changes are ready, submit a pull request for review.<br>
 Alternatively, you can open an issue with your suggestion if you need help or have questions about contributing.
 ## Table of Contents
+- [General purpose papers](#General-purpose-papers)
 - [Speech processing related papers](#Speech-processing-related-papers)
+
+## General purpose papers
+* [AI Research Paper Summaries](https://www.youtube.com/playlist?list=PLTWM4vrO7XA-UUTQ25jFDvFPYkTOsnqLj)
 
 ## Speech processing related papers
 * [DURP-Tutorials](https://www.youtube.com/playlist?list=PLOJ49z5vFzH9gf8y8eXw1uechmjSjOtQY)
