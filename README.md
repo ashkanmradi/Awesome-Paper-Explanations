@@ -5,10 +5,11 @@ This repository serves as a resource hub that aggregates links to YouTube playli
 ## Contributing
 We welcome contributions from the community! If you have a YouTube playlist that provides valuable insights into research papers, please follow these steps:
 1. **Fork the Repository**:
+2. 
 Create your own fork of this repository.
-2. **Add Your Playlist**:
+3. **Add Your Playlist**:
 Include the link under the appropriate category along with a brief description of its content.
-3. **Submit a Pull Request**:
+4. **Submit a Pull Request**:
 Once your changes are ready, submit a pull request for review.
 
  
