@@ -1,4 +1,4 @@
-# Research-Paper-Explanations-on-YouTube
+# Research Paper Explanations on YouTube
 Welcome to **_Research Paper Explanations on YouTube_** – a curated collection of YouTube playlists where various experts and educators explain research papers across diverse fields. Whether you're a student, researcher, or just curious about the latest scientific advances, this repository is designed to help you navigate complex topics through engaging video content.
 ## Overview
 This repository serves as a resource hub that aggregates links to YouTube playlists organized by research topics, methodologies, or conferences. The goal is to make academic research more accessible and understandable by leveraging high-quality video explanations.
