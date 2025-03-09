@@ -9,9 +9,9 @@ We welcome contributions from the community! If you have a YouTube playlist that
 3. **_Submit a Pull Request_**<br> Once your changes are ready, submit a pull request for review.<br>
 Alternatively, you can open an issue with your suggestion if you need help or have questions about contributing.
 ## Content
-- [Speech processing related papers](Speech-processing-related-papers)
+- [Speech processing related papers](#Speech-processing-related-papers)
 
-## Speech processing related papers
+### Speech processing related papers
 * [DURP-Tutorials](https://www.youtube.com/playlist?list=PLOJ49z5vFzH9gf8y8eXw1uechmjSjOtQY)
 
 
