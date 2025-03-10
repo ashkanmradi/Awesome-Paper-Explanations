@@ -21,6 +21,7 @@ Alternatively, you can open an issue with your suggestion if you need help or ha
 * [Maziar Raissi playlists](https://www.youtube.com/@maziarraissi3569/playlists)
 * [Reading Papers](https://www.youtube.com/playlist?list=PLAJOS_DQzwLsRwTK3Jc34YvfVmt-ehOvf)
 * [GalsenAI Reading Group #MLPaperReadingClubs](https://www.youtube.com/playlist?list=PLX577G2e-FeGA8Z34sufTQMW879Rv1iCQ)
+* [CW Paper-Club Sessions](https://www.youtube.com/playlist?list=PL2oyWpcMEaTwEe32gdHTEo_o_xWb7lVgb)
 
 
 ## Speech processing related papers
