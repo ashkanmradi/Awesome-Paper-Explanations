@@ -20,6 +20,7 @@ Alternatively, you can open an issue with your suggestion if you need help or ha
 * [Papers Explained - Machine Learning](https://www.youtube.com/playlist?list=PL8hTotro6aVHhn5QUB3HDJTu3rPJ48LeP)
 * [Maziar Raissi playlists](https://www.youtube.com/@maziarraissi3569/playlists)
 * [Reading Papers](https://www.youtube.com/playlist?list=PLAJOS_DQzwLsRwTK3Jc34YvfVmt-ehOvf)
+* [GalsenAI Reading Group #MLPaperReadingClubs](https://www.youtube.com/playlist?list=PLX577G2e-FeGA8Z34sufTQMW879Rv1iCQ)
 
 
 ## Speech processing related papers
