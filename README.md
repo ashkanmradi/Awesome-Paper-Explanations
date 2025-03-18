@@ -23,6 +23,7 @@ Alternatively, you can open an issue with your suggestion if you need help or ha
 * [GalsenAI Reading Group #MLPaperReadingClubs](https://www.youtube.com/playlist?list=PLX577G2e-FeGA8Z34sufTQMW879Rv1iCQ)
 * [CW Paper-Club Sessions](https://www.youtube.com/playlist?list=PL2oyWpcMEaTwEe32gdHTEo_o_xWb7lVgb)
 * [paper summaries and reviews](https://www.youtube.com/playlist?list=PLYPyzlZkfO8J56PIOwlZN9QqhQKWRYAu3)
+* [Deep Learning Papers](https://www.youtube.com/playlist?list=PLHgy1uwkOSvjcf4LqOv_UQJDy-ZqASnLH)
 
 
 ## Speech processing related papers
